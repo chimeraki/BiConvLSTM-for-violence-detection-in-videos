@@ -1,2 +1,1 @@
-# Violence_prediction_future_past
-Future and past conv autoencoder draft
+http://openaccess.thecvf.com/content_eccv_2018_workshops/w10/html/Hanson_Bidirectional_Convolutional_LSTM_for_the_Detection_of_Violence_in_Videos_ECCVW_2018_paper.html
